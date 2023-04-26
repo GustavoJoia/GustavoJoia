@@ -11,9 +11,9 @@
 
 #
 
-### Aspirante a desenvolvedor back-end. 💻
-### Estudante da Etec Cidade Tiradentes, zona leste da capital de São Paulo. 🗺️
-### Mais familiarizado com a linguagem PHP. 🐘
+Aspirante a desenvolvedor back-end. 💻 <br>
+Estudante da Etec Cidade Tiradentes, zona leste da capital de São Paulo. 🗺️ <br>
+Mais familiarizado com a linguagem PHP. 🐘
 
 #
 
