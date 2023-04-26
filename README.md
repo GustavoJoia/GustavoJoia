@@ -1,12 +1,12 @@
-<image alt="imagem header" src="https://pbs.twimg.com/profile_banners/1302399722569773061/1681703898/1080x360" />
-
-#
-
 <br>
 
 ### Bem vindo! Meu nome é Gustavo Joia, sinta-se livre para dar uma olhada. 👀
 
 <br>
+
+#
+
+<image alt="imagem header" src="https://pbs.twimg.com/profile_banners/1302399722569773061/1681703898/1080x360" />
 
 #
 
@@ -25,5 +25,3 @@
     <image alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <image alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div><br>
-
-#
