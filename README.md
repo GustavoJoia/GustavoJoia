@@ -11,6 +11,7 @@
 
 #
 
+Jovem programador, de 17 anos, no terceiro ano do ensino técnico. 🎒<br>
 Aspirante a desenvolvedor back-end. 💻 <br>
 Estudante da Etec Cidade Tiradentes, zona leste da capital de São Paulo. 🗺️ <br>
 Mais familiarizado com a linguagem PHP. 🐘
