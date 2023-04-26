@@ -5,6 +5,7 @@
 #
 
 ![Joia's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJoia&theme=dracula&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
@@ -20,8 +21,4 @@
     <image alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div><br>
 
-## E aqui, o que eu mais uso...
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
