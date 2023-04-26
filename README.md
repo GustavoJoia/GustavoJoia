@@ -29,4 +29,4 @@ Mais familiarizado com a linguagem PHP. 🐘
     <image alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=&compact&bg_color=00000000&custom_title=Mais+usados&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=&compact&bg_color=00000000&custom_title=Mais+usadas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
