@@ -1,15 +1,20 @@
+<image alt="imagem header" src="https://pbs.twimg.com/profile_banners/1302399722569773061/1681703898/1080x360" />
+
+#
+
+<br>
+
 ### Bem vindo! Meu nome é Gustavo Joia, sinta-se livre para dar uma olhada. 👀
 
 <br>
 
 #
 
-![Joia's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJoia&theme=dracula&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Joia's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJoia&theme=dracula&show_icons=true&bg_color=00000000)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-## Tecnologias com que tive contato:
+### Tecnologias com que tive contato:
 <br>
 <div>
     <image alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,4 +26,4 @@
     <image alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div><br>
 
-
+#
