@@ -1,6 +1,6 @@
 
 
-### Bem vindo! Meu nome é Gustavo Joia, sinta-se livre para dar uma olhada e conhecer um pouco do que eu faço. 👀
+### Bem vindo! Meu nome é Gustavo Joia. Sinta-se livre para dar uma olhada e conhecer um pouco do que eu faço. 👀
 #
 
 <image alt="imagem header" src="https://pbs.twimg.com/profile_banners/1302399722569773061/1681703898/1080x360" />
