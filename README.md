@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
 
 ### Bem vindo! Meu nome é Gustavo Joia. Sinta-se livre para dar uma olhada e conhecer um pouco do que eu faço. 👀
 #
@@ -35,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJoia&layout=compact&bg_color=00000000&theme=dracula&custom_title=Mais+usadas)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=footer"/>
