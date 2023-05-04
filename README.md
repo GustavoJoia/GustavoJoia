@@ -22,8 +22,8 @@
 
 - 🎒 Jovem programador, de <strong>17 anos</strong>, no terceiro ano do ensino técnico. <br>
 - 💻 Aspirante a desenvolvedor <strong>back-end</strong>. 💻 <br>
-- 🗺️ Estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo. <br>
-- 🐘 Um carinho questionável com o <strong>PHP</strong>. 
+- 🗺️ Estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil. <br>
+- 🐘 Em constante aprendizado e <strong>descoberta</strong>. 
 
 #
 
