@@ -27,31 +27,36 @@
 
 #
 
+
+<br>
+
 <div align="center">
 
-### Principais tecnologias:
+<table><tr><td valign="top" width="50%">
+
+
+
+### Back-end  
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,php,mysql,cpp,lua&theme=dark&perline=3)](https://skillicons.dev)
+
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Front-end  
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3)](https://skillicons.dev)
+ 
+</div>
+
+</td></tr></table> 
 
 </div>
 <br>
-<div align="center">
-    <image alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <image alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <image alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div><br>
-
-<div align="center">
-
-### Outras conhecidas:
-
-</div>
-<br>
-<div align="center">
-    <image alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <image alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <image alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <image alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
-    <image alt="sql server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    <image alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=footer"/>
