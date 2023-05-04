@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Bem vindo! Meu nome é Gustavo Joia! Sinta-se a vontade para conhecer um pouco do que faço.
+### Bem vindo! Meu nome é Gustavo Joia. Sinta-se a vontade para conhecer um pouco do que faço.
 
 </div>
 
