@@ -23,7 +23,7 @@
 - 🎒 Jovem programador, de <strong>17 anos</strong>, no terceiro ano do ensino técnico. <br>
 - 💻 Aspirante a desenvolvedor <strong>back-end</strong>. 💻 <br>
 - 🗺️ Estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil. <br>
-- 🐘 Criativo e <strong>observador</strong>. 
+- 🐘 Curioso e <strong>observador</strong>. 
 
 #
 
