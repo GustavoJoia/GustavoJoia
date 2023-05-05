@@ -50,7 +50,7 @@
 ### Front-end  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark&perline=3)](https://skillicons.dev)
  
 </div>
 
