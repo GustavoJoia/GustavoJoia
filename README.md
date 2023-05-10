@@ -38,7 +38,7 @@
 ### Back-end  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,php,cpp,lua,nodejs&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,php,cpp,nodejs&theme=dark&perline=3)](https://skillicons.dev)
 
 </div>
 
