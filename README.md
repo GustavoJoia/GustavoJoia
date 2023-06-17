@@ -15,7 +15,7 @@
 <p align="left">
   💼 Ferramentas: 
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,figma&theme=dark&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=5)](https://skillicons.dev)
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=footer"/>
