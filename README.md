@@ -3,7 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  🎒 Jovem programador, de <strong>18 anos</strong>, no terceiro ano do ensino técnico. Aspirante a desenvolvedor <strong>back-end</strong>. Estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil.
+  🎒 Quem sou eu:
+  
+  Um jovem programador, de <strong>18 anos</strong>, no terceiro ano do ensino técnico. Aspirante a desenvolvedor <strong>back-end</strong>. Estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil.
 </p>
 
 <p align="left">
