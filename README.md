@@ -6,7 +6,7 @@
   
 ### 🎒 Quem sou eu:
   
-  Um jovem programador, de <strong>18 anos</strong>, no terceiro ano do ensino técnico. Aspirante a desenvolvedor <strong>back-end</strong>. Estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil.
+  Um jovem programador, de <strong>18 anos</strong>, no terceiro ano do ensino técnico. Aspirante a desenvolvedor <strong>back-end</strong> e estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil.
 </p>
 
 <p align="left">
