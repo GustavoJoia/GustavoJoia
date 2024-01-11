@@ -6,12 +6,12 @@
   
 ### 🎒 Quem sou eu:
   
-  Um jovem programador, de <strong>18 anos</strong>, no terceiro ano do ensino técnico. Aspirante a desenvolvedor <strong>back-end</strong> e estudante da <strong>Etec Cidade Tiradentes</strong>, zona leste da capital de São Paulo, Brasil.
+  Um jovem programador, de <strong>18 anos</strong>, profissional habilitado em Desenvolvimento de Sistemas pela Etec Cidade Tiradentes.
 </p>
 
 <p align="left">
   
-### 💻 Tecnologias: 
+### 💻 Habilidades: 
   
   [![My Skills](https://skillicons.dev/icons?i=java,javascript,php,arduino,lua,nodejs,react&theme=dark&perline=10)](https://skillicons.dev)
 </p>
