@@ -6,7 +6,7 @@
   
 ### 🎒 Quem sou eu:
   
-  Um jovem programador, de <strong>18 anos</strong>, profissional habilitado em Desenvolvimento de Sistemas pela Etec Cidade Tiradentes.
+  Um jovem programador, de <strong>18 anos</strong>, profissional habilitado em Desenvolvimento de Sistemas pela Etec Cidade Tiradentes, atual aluno em Desenvolvimento de Software Multiplataforma na Fatec Itaquera.
 </p>
 
 <p align="left">
