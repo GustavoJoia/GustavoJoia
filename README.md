@@ -6,7 +6,7 @@
   
 ### 🎒 Quem sou eu:
   
-  Meu nome é Gustavo Joia, sou um programador full-stack júnior, formado como profissional habilitado em Desenvolvimento de Sistemas e agora graduando em Desenvolvimento de Software Multiplataforma. Gosto de explorar áreas, mas tenho carinho pelo desenvolvimento web e de jogos, e é por onde quero seguir! Vira e mexe, tô de olho em assuntos que envolvam esses.
+  Meu nome é Gustavo Joia, sou um programador full-stack júnior, formado como profissional habilitado em Desenvolvimento de Sistemas pela etec de Cidade Tiradentes e agora graduando em Desenvolvimento de Software Multiplataforma na Fatec Itaquera. Gosto de explorar áreas, mas tenho carinho pelo desenvolvimento web e de jogos, e é por onde quero seguir! Vira e mexe, tô de olho em assuntos que envolvam esses.
 </p>
 
 ### Consigo me virar bem com esses daqui...
