@@ -6,22 +6,14 @@
   
 ### 🎒 Quem sou eu:
   
-  Um jovem programador, de <strong>18 anos</strong>, profissional habilitado em Desenvolvimento de Sistemas pela Etec Cidade Tiradentes, atual aluno em Desenvolvimento de Software Multiplataforma na Fatec Itaquera.
+  Meu nome é Gustavo Joia, sou um programador full-stack júnior, formado como profissional habilitado em Desenvolvimento de Sistemas e agora graduando em Desenvolvimento de Software Multiplataforma. Gosto de explorar áreas, mas tenho carinho pelo desenvolvimento web e de jogos, e é por onde quero seguir! Vira e mexe, tô de olho em assuntos que envolvam esses.
 </p>
 
-<p align="left">
-  
-### 💻 Habilidades: 
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,javascript,php,arduino,lua,nodejs,react&theme=dark&perline=10)](https://skillicons.dev)
-</p>
+### Consigo me virar bem com esses daqui...
 
-<p align="left">
-  
-### 💼 Ferramentas: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,js,mysql,php,java&theme=dark&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=5)](https://skillicons.dev)
-</p>
+
 
 <br>
 
