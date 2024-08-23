@@ -9,9 +9,7 @@
   Meu nome é Gustavo Joia, sou um programador full-stack júnior, formado como profissional habilitado em Desenvolvimento de Sistemas pela etec de Cidade Tiradentes e agora graduando em Desenvolvimento de Software Multiplataforma na Fatec Itaquera. Gosto de explorar áreas, mas tenho carinho pelo desenvolvimento web e de jogos, e é por onde quero seguir! Vira e mexe, tô de olho em assuntos que envolvam esses temas.
 </p>
 
-### 💻 - Tenho prática com:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,js,mysql,php,java&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,php,java&theme=dark&perline=10)](https://skillicons.dev)
 
 
 
