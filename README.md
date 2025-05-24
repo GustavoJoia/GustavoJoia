@@ -5,7 +5,7 @@
 Olá! Me chamo Gustavo Joia, sou morador de São Paulo, capital. Me formei profissional habilitado em desenvolvimento de sistema com a Etec Cidade Tiradentes, e agora curso desenvolvimento de software multiplataforma na Fatec Itaquera! Sou um entusiasta de web e aplicações mobile, e planejo também dar aula de programação um dia! Vamos ver no que isso vai dar, não é?!
 
 ## Um pouco do que eu sei!
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,mongodb,php,laravel,java,spring,python,arduino&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,mysql,mongodb,laravel,spring,python,arduino&theme=dark&perline=10)](https://skillicons.dev)
 #
 
 <div align="center">
