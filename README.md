@@ -8,7 +8,7 @@ Olá! Me chamo Gustavo Joia, sou morador de São Paulo, capital. Me formei profi
 
 <h2 align="center">Um pouco do que eu uso atualmente:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,mysql,mongodb,laravel,spring,python,arduino&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,laravel,mysql,mongodb,spring,python,arduino&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
