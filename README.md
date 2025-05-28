@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
 
-# 🧑🏽‍💻 Joia se apresentando!
+<h1 align="center">🧑🏽‍💻 Joia se apresentando!</h1>
 
 Olá! Me chamo Gustavo Joia, sou morador de São Paulo, capital. Me formei profissional habilitado em desenvolvimento de sistema com a Etec Cidade Tiradentes, e agora curso desenvolvimento de software multiplataforma na Fatec Itaquera! Sou um entusiasta de web e aplicações mobile, e planejo também dar aula de programação um dia! Vamos ver no que isso vai dar, não é?!
 
