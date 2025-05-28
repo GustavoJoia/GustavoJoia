@@ -6,11 +6,11 @@ Olá! Me chamo Gustavo Joia, sou morador de São Paulo, capital. Me formei profi
 
 ## Um pouco do que eu sei!
 
-<center>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mysql,mongodb,laravel,spring,python,arduino&theme=dark&perline=10)](https://skillicons.dev)
 
-</center>
+</div>
 
 #
 
